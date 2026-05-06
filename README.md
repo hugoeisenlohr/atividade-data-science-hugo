@@ -20,4 +20,4 @@ Este repositório foi criado para a Atividade 2 da disciplina, com o objetivo de
 1. Clone este repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/hugoeisenlohr/atividade-data-science-hugo.git
